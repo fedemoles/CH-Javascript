@@ -23,5 +23,5 @@ Este repositorio tiene como objetivo proporcionar el acceso directo a los desaf√
 
 
 
-#### Proyecto Final: https://github.com/fedemoles/CH-Javascript/tree/main/proyecto_final/index.html
+#### Proyecto Final: https://fedemoles.github.io/CH-Javascript/
 <p><img align="left" src="https://github.com/fedemoles/CH-Javascript/blob/main/proyecto_final/assets/img/csoon.webp?raw=true" alt="proyecto_final" /></p>
