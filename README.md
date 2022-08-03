@@ -18,6 +18,11 @@ Este repositorio tiene como objetivo proporcionar el acceso directo a los desaf�
 #### Desafío Entregable 3: https://github.com/fedemoles/CH-Javascript/tree/main/desafios/desafio_entregable_3
 <p><img align="left" src="https://github.com/fedemoles/CH-Javascript/blob/main/desafios/assets/img/entreg3.png?raw=true" alt="entregable_3" /></p>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+#### Desafío Entregable 4: https://github.com/fedemoles/CH-Javascript/tree/main/desafios/desafio_entregable_4
+<p><img align="left" src="https://github.com/fedemoles/CH-Javascript/blob/main/desafios/assets/img/entreg4.png?raw=true" alt="entregable_4" /></p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
 
