@@ -1,0 +1,47 @@
+/* estilos generales*/
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(213, 250, 7);
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(18, 163, 125);
+    width: 250px;
+    height: 225px;
+    margin: 5px;
+    background-color: #ed9511;
+}
+
+#formulario label {
+    background-color: #ed9511;
+}
+
+.iText {
+    background-color: whitesmoke;
+}
+
+#botones {
+    background-color: #ed9511;
+}
+
+#btnSubmit,
+#btnMostrar {
+    margin-top: 25px;
+    width: 100px;
+    height: 35px;
+}
+
+#containerPrincipal {
+    display: flex;
+    flex-direction: row;
+}
+
+#displayTodos,
+#displayTodos p,
+#displayTodos strong,
+#displayTodos h3 {
+    background-color: #1b90f7;
+    margin: 5px;
+}
