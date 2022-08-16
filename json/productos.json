@@ -1,0 +1,20 @@
+[{
+        "id": 1,
+        "tipo": "Electro Grandes",
+        "nombre": "Smart TV",
+        "precio": 3000,
+        "foto": "../media/products/smartv.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Electro Pequeños",
+        "nombre": "Afeitadora con accesorios",
+        "precio": 800,
+        "foto": "../media/products/afeitadora+acc.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Tecnología",
+        "nombre": "Notebook Acer",
+        "precio": 800,
+        "foto": "../media/products/notebookacer.jpg"
+    }
+]
