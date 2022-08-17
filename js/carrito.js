@@ -20,7 +20,7 @@ $(document).ready(function () {
 
   //evento para que figure una alerta si el carrito esta vacio
   $("#btn-continuar").on('click', function (e) {
-    if (carrito.length == 0){
+    if (carrito.length == 0) {
       e.preventDefault();
       Swal.fire({
         icon: 'error',
@@ -148,4 +148,14 @@ function calcularTotalCarrito() {
   $("#montoTotalCompra").text(total);
   $("#cantidad-compra").text(carrito.length);
   return total;
+}
+
+//funcion para traer el carrito cargado cada vez que se refresca la pagina
+function cargarCarrito() {
+  let carrito = JSON.parse(localStorage.getItem("carrito"));
+  if (carrito == null) {
+    return [];
+  } else {
+    return carrito;
+  }
 }
