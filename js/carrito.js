@@ -52,6 +52,16 @@ function renderizarProductos() {
   }
 };
 
+//funcion utilizando AJAX para obtener la informacion de los productos creados en el archivo json
+function obtenerJSON() {
+  $.getJSON("../json/productos.json", function (respuesta, estado) {
+    if (estado == "success") {
+      productosJSON = respuesta;
+      renderizarProductos();
+    }
+  });
+}
+
 //funcion para ordenar los productos segun precio y orden alfabetico
 function ordenarProductos() {
   let seleccion = $("#seleccion").val();
