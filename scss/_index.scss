@@ -1,15 +1,15 @@
 /* === INDEX === */
-.carrusel-index {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 40px;
-    .carousel-item{
-        img{
-            width: 20em;
-        }
-    }
+.carrusel-index .carousel-item img {
+    width: 10rem;
+    min-height: 0px;
+    min-width: 0px;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%; 
+    border-radius: 0.5cm;
 }
-
+  
 .div-cuadros {
     display: flex;
     justify-content: center;
