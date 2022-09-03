@@ -127,6 +127,12 @@ footer .footer-content .footer-redes li i {
   max-height: 100%;
   max-width: 100%;
   border-radius: 0.5cm;
+  opacity: 0.85;
+}
+
+.carrusel-index .carousel-item .caroUss {
+  font-family: "Bebas Neue";
+  font-size: 2.1rem;
 }
 
 .div-cuadros {
@@ -598,6 +604,7 @@ footer .footer-content .footer-redes li i {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 
   /*--- GENERAL ---*/
+
   header nav div {
     align-items: flex-end;
   }
@@ -612,6 +619,7 @@ footer .footer-content .footer-redes li i {
   }
 
   /*----INDEX----*/
+
   .div-cuadros .boxes h2 {
     font-size: 1rem;
   }
@@ -621,6 +629,7 @@ footer .footer-content .footer-redes li i {
   }
 
   /*--- PRODUCTOS ---*/
+
   #container-general #ordenar-modal #seleccion {
     margin: 0px;
   }
@@ -636,6 +645,7 @@ footer .footer-content .footer-redes li i {
   }
 
   /*--- CARRITO ---*/
+
   .section-carrito {
     width: 80%;
     margin-left: auto;
@@ -664,6 +674,7 @@ footer .footer-content .footer-redes li i {
 }
 
 /*--- CONTACTO ---*/
+
 .section-contacto {
   width: 80%;
   margin-left: auto;
