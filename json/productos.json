@@ -1,20 +1,32 @@
 [{
         "id": 1,
-        "tipo": "Electro Grandes",
-        "nombre": "Smart TV",
-        "precio": 53000,
-        "foto": "../media/products/smartv.jpg"
+        "tipo": "Diseño",
+        "nombre": "DISEÑO WEB",
+        "precio": 35000,
+        "foto": "../media/products/diseño-web-standard.jpg"
     }, {
         "id": 2,
-        "tipo": "Electro Pequeños",
-        "nombre": "Afeitadora con accesorios",
-        "precio": 9800,
-        "foto": "../media/products/afeitadora+acc.jpg"
+        "tipo": "A medida",
+        "nombre": "DISEÑO WEB A MEDIDA",
+        "precio": 55000,
+        "foto": "../media/products/diseño-web-a-medida.jpg"
     }, {
         "id": 3,
-        "tipo": "Tecnología",
-        "nombre": "Notebook Acer",
-        "precio": 98000,
-        "foto": "../media/products/notebookacer.jpg"
+        "tipo": "App",
+        "nombre": "WEB APP",
+        "precio": 45000,
+        "foto": "../media/products/diseño-web-app.jpg"
+    },{
+        "id": 4,
+        "tipo": "Economy",
+        "nombre": "DISEÑO WEB ECONÓMICO",
+        "precio": 20000,
+        "foto": "../media/products/diseño-web-econo.jpg"
+    },{
+        "id": 5,
+        "tipo": "Full Responsive",
+        "nombre": "DISEÑO WEB FLEXIBLE",
+        "precio": 65000,
+        "foto": "../media/products/diseño-web-full-resp.jpg"
     }
 ]

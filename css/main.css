@@ -8,8 +8,8 @@
 
 body {
   background-image: url(../media/icon.png);
-  background-repeat: space repeat center;
-  color: #f4f4fa;
+  background-repeat: space;
+  color: #3d423d;
   font-family: "Oswald", sans-serif;
 }
 
@@ -23,6 +23,7 @@ body {
   align-self: center;
   color: #f5f5f5;
   background-color: #8d2323;
+  border-radius: 0.5cm;
 }
 
 p {
@@ -146,7 +147,8 @@ footer .footer-content .footer-redes li i {
   width: 48vh;
   margin: 10px;
   padding: 25px;
-  background-color: rgba(37, 19, 173, 0.855);
+  background-color: rgba(179, 178, 186, 0.842);
+  border-radius: 0.5cm;
 }
 
 .div-cuadros .boxes:hover {
@@ -203,7 +205,7 @@ footer .footer-content .footer-redes li i {
 
 #container-general #ordenar-modal .modal-footer a {
   text-decoration: none;
-  color: #f5f5f5;
+  color: rgba(179, 178, 186, 0.842);
 }
 
 #container-general #section-productos {
@@ -279,7 +281,7 @@ footer .footer-content .footer-redes li i {
 }
 
 .section-carrito .resumen-carrito table {
-  background-color: rgba(158, 158, 158, 0.137);
+  background-color: #f5f5f5;
   color: #000100;
   text-align: center;
   border-collapse: collapse;
@@ -303,7 +305,7 @@ footer .footer-content .footer-redes li i {
 }
 
 .section-contacto .div-contacto div {
-  background-color: rgba(12, 52, 145, 0.863);
+  background-color: rgba(226, 228, 236, 0.814);
   padding: 40px;
   height: 40vh;
   display: flex;
@@ -325,7 +327,7 @@ footer .footer-content .footer-redes li i {
 }
 
 .section-contacto .form-contacto section {
-  background-color: #121cd4eb;
+  background-color: rgba(179, 178, 186, 0.842);
   padding: 40px;
   border-radius: 10px;
   width: 90vh;
@@ -373,69 +375,7 @@ footer .footer-content .footer-redes li i {
 }
 
 .section-contacto .form-contacto section form .botones:hover {
-  color: #d7c1d7d5;
-}
-
-/* === INFO === */
-
-.info h2 {
-  padding: 20px;
-  letter-spacing: 5px;
-  word-spacing: 15px;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.info .accordion {
-  max-width: 90%;
-  display: block;
-  margin: 50px auto;
-}
-
-.info .accordion .accordion-card {
-  margin-bottom: 20px;
-  width: 100%;
-}
-
-.info .accordion .accordion-card .accordion-header h3 {
-  cursor: pointer;
-  color: #000100;
-  position: relative;
-  background-color: #d7c1d7d5;
-  margin: 0;
-  padding: 15px 20px;
-  font-size: 1.2rem;
-}
-
-.info .accordion .accordion-card .accordion-header {
-  position: relative;
-}
-
-.info .accordion .accordion-card .accordion-header span {
-  cursor: pointer;
-  position: absolute;
-  right: 20px;
-  top: 12px;
-  height: 25px;
-  width: 25px;
-  color: #444444;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 25px;
-  font-size: .8rem;
-}
-
-.info .accordion .accordion-body {
-  padding: 20px;
-  display: none;
-}
-
-.info .accordion .accordion-body p {
-  font-size: 1.2rem;
-  line-height: 24px;
-  color: #000100;
-  margin: 0px;
+  color: #827182e8;
 }
 
 /* ----------- SMARTPHONE ----------- */
@@ -574,29 +514,6 @@ footer .footer-content .footer-redes li i {
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-}
-
-/*--- INFO ---*/
-
-.info h2 {
-  padding: 20px;
-}
-
-.info .accordion {
-  margin: 20px auto;
-}
-
-.info .accordion .accordion-body p {
-  font-size: 1rem;
-}
-
-.info .accordion .accordion-card .accordion-header span {
-  right: 5px;
-}
-
-.info .accordion .accordion-card .accordion-header h3 {
-  font-size: 1rem;
-  padding: 15px 20px 15px 10px;
 }
 
 /* ----------- TABLET ----------- */
