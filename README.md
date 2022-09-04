@@ -37,7 +37,7 @@ Este repositorio tiene como objetivo proporcionar el acceso directo a los desaf√
 <p><img align="left" src="https://github.com/fedemoles/CH-Javascript/blob/main/desafios/assets/img/csoon.webp?raw=true" alt="entregable_6" /></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 #### Proyecto Final: https://fedemoles.github.io/CH-Javascript/
 <p><img align="left" src="https://github.com/fedemoles/CH-Javascript/blob/main/desafios/assets/img/proyfin.png?raw=true" alt="proyecto_final" /></p>
